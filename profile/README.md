@@ -12,7 +12,7 @@ Everything here is open, free, and built to be forked and argued with.
 
 | Repository | What it is |
 | :--- | :--- |
-| **[cs-skills](https://github.com/CSPulse/cs-skills)** | AI skills for customer success work - renewal risk, business reviews, onboarding plans, post-call follow-ups, email critique. Installs into Claude Cowork, Claude Code, or the Claude app. |
+| **[customer-success-skills](https://github.com/CSPulse/customer-success-skills)** | AI skills for customer success work - renewal risk, business reviews, onboarding plans, post-call follow-ups, email critique. Installs into Claude Cowork, Claude Code, or the Claude app. |
 
 More is coming. If you want to shape what, the issues on any repo are open.
 
@@ -48,6 +48,6 @@ Missing something? Describe the job, how often it recurs, and what a good output
 
 ## Elsewhere
 
-- **[cspulse.com](https://cspulse.com)** - the newsletter and everything else
-- **[Join the community](https://go.cspulse.com/community)**
+- **[cspulse.com](https://cspulse.com?ref=github)** - the newsletter and everything else
+- **[Join the community](https://go.cspulse.com/community?ref=github)**
 - **info@cspulse.com**
